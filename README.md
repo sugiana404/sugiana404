@@ -11,7 +11,7 @@ I'm always eager to expand my skills. Currently, I'm sharpening my SQL expertise
 I'm open to collaborations, discussions, or just sharing knowledge. Feel free to reach out!
 
 # 📫 How to reach me
-You can find me on [LinkedIn](www.linkedin.com/in/i-wayan-sugiana-29656b309). Let's connect and grow together in the vast world of software engineering!
+You can find me on [LinkedIn](https://www.linkedin.com/in/i-wayan-sugiana-29656b309). Let's connect and grow together in the vast world of software engineering!
 
 <!---
 sugiana404/sugiana404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
